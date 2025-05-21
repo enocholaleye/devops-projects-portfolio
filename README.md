@@ -23,6 +23,10 @@ Welcome to my **DevOps Engineer Capstone Journey**, where I build and document 1
 - Learn and master DevOps engineering with real-world project experience.
 - Apply Linux, Git, Cloud, Automation, CI/CD, Containers, IaC, Monitoring, and SRE best practices.
 
+## 🔧 System Maintenance Scripts
+
+- [Daily Update Script](system-maintenance/README.md): Automates package updates, upgrades, and cleanup with log tracking.
+
 
 
 Stay tuned for updates!
